@@ -209,6 +209,7 @@
 .windows-right::before {
     content: '';
     position: absolute;
+    right: 0px;
     top: 90px;
     width: 50px;
     height: 60px;
@@ -243,6 +244,7 @@
     content: '';
     position: absolute;
     top: 90px;
+    left: 0px;
     width: 50px;
     height: 60px;
     background: #333;
